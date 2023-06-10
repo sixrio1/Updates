@@ -1,3 +1,4 @@
+# Updates
 const Discord = require('discord.js')
 const XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest; /*Parempi vaan constiin päivittää*/
 const client = new Discord.Client();
